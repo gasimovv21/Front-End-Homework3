@@ -1,0 +1,34 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box; 
+}
+
+a{
+    text-decoration: none;
+}
+
+ul, li{
+    list-style-type: none;
+}
+
+.default-btn{
+    padding: 5px 10px;
+    color: white;
+    transition: 0.4s;
+    border-radius: 2px;
+}
+
+.default-btn:hover{
+    color: #FED136;
+}
+
+.container{
+    width: 90%;
+    margin: auto;
+}
+
+input {
+    display: block;
+    margin-bottom: 25px;
+}  
